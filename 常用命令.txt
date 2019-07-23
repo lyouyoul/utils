@@ -1,0 +1,24 @@
+在dos下，输入netstat -ano|findstr 8189,查看端口使用情况
+输入taskkill /pid 13064 /f停止端口占用
+
+ scp /c/Users/Administrator/.ssh/id_rsa.pub git@111.231.195.149:.ssh/id_rsa.pub.zhouhailong
+  git remote add origin git@github.com:lyouyoul/yxy.git
+  
+  nohup  java -Xms256m -Xmx1024m  -jar   yxy-auth-service-1.0.0-SNAPSHOT.jar >auth.out &
+  
+  ${user.home}/.IntelliJIdea/system
+
+ 
+jdbc:mysql://111.231.195.149:3306/yxy?useUnicode=true&characterEncoding=utf8
+GZminxin123...
+
+
+/images/userimages/2a0d104a888f413c9761d0289703e6ed.jpeg
+
+
+"(^[1-9]\\d{5}(18|19|20)\\d{2}((0[1-9])|(10|11|12))(([0-2][1-9])|10|20|30|31)\\d{3}[0-9Xx]$)|(^[1-9]\\d{5}\\d{2}((0[1-9])|(10|11|12))(([0-2][1-9])|10|20|30|31)\\d{3}$)"
+
+Cookie,Set-Cookie
+
+
+@JsonFormat(timezone = "GMT+8", pattern = "yyyyMMddHHmmss")  git@111.231.195.149
